@@ -2,7 +2,7 @@
 <h1 align="center"> Hi, I'm Srajan Acharya!</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Sahaayak<br>🌱 I’m currently learning Web3, Next.js,Nestjs<br>👯 I’m looking to collaborate on typescript projects<br>📫 How to reach me srajanacharya09@gmail.com
+🔭 I’m currently working on Sahaayak<br>🌱 I’m currently learning Web3, Next.js,Rust<br>👯 I’m looking to collaborate on typescript projects<br>📫 How to reach me srajanacharya09@gmail.com
 
 
 ## 🌐 Socials:
